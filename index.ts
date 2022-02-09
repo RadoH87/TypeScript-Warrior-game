@@ -9,4 +9,4 @@ do {
   winner = arena.fight();
 } while (winner === null);
 
-console.log(winner.getName(), "is a winner!");
+console.log(winner.name, "is a winner!");
